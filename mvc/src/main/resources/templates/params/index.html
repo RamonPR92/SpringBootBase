@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Enviar parametros</title>
+</head>
+<body>
+    <h2>Enviar parametros</h2>
+    <ul>
+        <!-- Para usar links se usa @ y no $ como para los demas -->
+        <li><a th:href="@{/params/one-param(saludo='Hola Ramon')}"> params/one-param?texto=Hola Ramon</a></li>
+        <li><a th:href="@{/params/more-params(saludo='Hola Ramon', numero=30, decimal=4.5)}">params/more-params</a></li>
+        <li><a th:href="@{/params/more-params-request(saludo='Hola Ramon', numero=30, decimal=4.5)}">params/more-params-request</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Path Variable</title>
+</head>
+<body>
+
+    <h2>Path variable</h2>
+    <ul>
+        <li><a th:href="@{/path-variable/string/} + 'variable'"> /string/variable</a></li>
+        <li><a th:href="@{/path-variable/string/} + 'variable' + '/' + 4">/string/variable/4.5</a></li>
+    </ul>
+</body>
+</html>
