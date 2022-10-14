@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://wwww.thymeleaf.org">
+<body>
+    <!-- Un fragmento de codigo html que puede ser reutilizable -->
+    <section th:fragment="interceptor">
+        <div  class="alert alert-success" role="alert">
+            <span th:text="'Tiempo transcurrido '+ ${tiempoTranscurrido}"></span>
+        </div>
+    </section>
+</body>
+</html>
