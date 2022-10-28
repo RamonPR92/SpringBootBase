@@ -1,0 +1,25 @@
+--Por default spring va y ejecuta este script cada que se inicia
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Juan', 'Ramirez', 'juan@hotmail.com', '19550720','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Juan', 'Ramirez', 'juan@hotmail.com', '19550720','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Juan', 'Ramirez', 'juan@hotmail.com', '19550720','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Juan', 'Ramirez', 'juan@hotmail.com', '19550720','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Juan', 'Ramirez', 'juan@hotmail.com', '19550720','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Juan', 'Ramirez', 'juan@hotmail.com', '19550720','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Juan', 'Ramirez', 'juan@hotmail.com', '19550720','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Juan', 'Ramirez', 'juan@hotmail.com', '19550720','');
+INSERT INTO clientes (nombre, apellido, email, creado_en, foto) VALUES ('Ramon', 'Perez', 'ramon@hotmail.com', '19920513','');
